@@ -1,0 +1,20 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "* [General info](#general-info)\r * [Technologies](#technologies)\r * [Screenshot](#screenshot)\r * [Credits](#credits)\r * [License](#license)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashkimereqi100/weather-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashkimereqi100/weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/bashkimereqi100/weather-dashboard#readme"
+}
