@@ -16,5 +16,5 @@ This project is created with:
 * Open Weather API
 
 # Helping URL-s
-I have used the OpenWeather API documentation (https://openweathermap.org/api), a tutorial for the Open Weather API (http://osp123.github.io/tutorials/html/weatherAPI.html), Moment.js (https://momentjs.com/), jQuery API Documentation (https://api.jquery.com/), W3Schools (https://www.w3schools.com/js/default.asp), MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript), and Bootstrap 4 (https://getbootstrap.com/) extensively in creating my project. Some other resources that I used include: Stack Overflow (#https://stackoverflow.com/) and the GitLab repository for my course, specifically referencing the in-class activities. 
+I have used the OpenWeather API documentation (https://openweathermap.org/api), a tutorial for the Open Weather API (http://osp123.github.io/tutorials/html/weatherAPI.html), Moment.js (https://momentjs.com/), jQuery API Documentation (https://api.jquery.com/), W3Schools (https://www.w3schools.com/js/default.asp), MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript), and Bootstrap 4 (https://getbootstrap.com/)
 
